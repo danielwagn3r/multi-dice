@@ -5,7 +5,8 @@
         "core": "*",
         "radio": "*",
         "microphone": "*",
-        "Funk": "*"
+        "Funk": "*",
+        "radio-broadcast": "*"
     },
     "files": [
         "main.blocks",
